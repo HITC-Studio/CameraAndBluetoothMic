@@ -1,4 +1,4 @@
-package com.software.headinthecloudsstudio.annascreativity;
+package com.software.headinthecloudsstudio.vincentscamera;
 
 import android.annotation.TargetApi;
 import android.hardware.Camera;

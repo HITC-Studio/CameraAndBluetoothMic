@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AnnasCreativity</string>
+    <string name="app_name">vincentscamera</string>
 
     <string name="btnCapture">Record</string>
     <string name="btnChooseAudioFile">Choose Audio</string>

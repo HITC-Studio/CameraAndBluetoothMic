@@ -1,4 +1,4 @@
-package com.software.headinthecloudsstudio.annascreativity;
+package com.software.headinthecloudsstudio.vincentscamera;
 
 import android.app.Activity;
 import android.content.Context;
